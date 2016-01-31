@@ -1587,7 +1587,7 @@ build_mplayer=n
 build_vlc=n
 git_get_latest=y
 prefer_stable=y
-build_intel_qsv=n
+build_intel_qsv=y
 #disable_nonfree=n # have no value by default to force user selection
 original_cflags= # no export needed, this is just a local copy
 
